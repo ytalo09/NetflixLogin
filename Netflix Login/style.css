@@ -1,0 +1,188 @@
+@charset "UTF-8";
+
+body {
+    background-image: url(image/netflixteaser.webp);
+    margin: 0px;
+    width: 1410x;
+}
+
+img {
+    width: 250px;
+}
+
+main header {
+    margin-top: 60px;
+    height: 600px;
+}
+
+main {
+    margin: auto;
+    background-color: #00000099;
+    padding-top: 4px;
+    border-radius: 7px;
+    max-width: 500px;
+}
+
+h1 {
+    font-family:Arial, Helvetica, sans-serif;
+    color: white;
+    margin-left: 55px;
+}
+
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: rgb(229, 9, 20);
+    padding: 15px;
+    text-align: center;
+    width: 360px;
+    margin-left: 55px;
+    border-radius: 5px;
+    margin-top: 40px;
+}
+
+#ancora1 {
+    color: white;
+    text-decoration: none;
+}
+
+#ancora1:hover {
+    text-decoration: underline;
+}
+
+
+p a {
+    color: white;
+    text-decoration: none;
+    margin-left: 338px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    width: 120px;
+    position: absolute;
+    bottom: -0px;
+    top: 499px;
+    
+}
+
+p a:hover {
+    text-decoration: underline;
+}
+
+#paragrafo1 {
+    color: rgb(177, 174, 175);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    margin-left: 80px;
+    position: absolute;
+    top: 485px;
+}
+
+#paragrafo3 {
+    color: rgb(177, 174, 175);
+    margin-left: 60px;
+    margin-top: 90px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#paragrafo4 {
+    color: rgb(177, 174, 175);
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    text-align: justify;
+    margin-left: 60px;
+    width: 360px;
+}
+
+#ancora {
+    margin-top: 67px;
+    position: absolute;
+    margin-left: 2px;
+    font-size: 17px;
+}
+
+#checkbox1 {
+    width: 20px;
+    height: 15px;
+    position: absolute;
+    top: 494px;
+
+}
+
+strong {
+    color: rgb(11, 46, 220);
+}
+
+input {
+    color: black;
+    padding: 15px;
+    margin-bottom: 10px;
+    margin-left: 55px;
+    border-radius: 5px;
+    width: 360px;
+}
+
+footer {
+    background-color: #01000099;
+    height: 300px;
+    max-width: 1400px;
+    min-width: 500px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 120px;
+}
+
+#paragrafo5 {
+    color: rgb(163, 156, 156);
+    position: absolute;
+    top: 950px;
+    margin-left: 51px;
+
+}
+
+#paragrafo6 {
+    color: rgb(163, 156, 156);
+    position: absolute;
+    top: 1050px;
+    margin-left: 51px;
+    min-width: 500px;
+}
+
+#paragrafo7 {
+    color: rgb(163, 156, 156);
+    position: absolute;
+    top: 1050px;
+    margin-left: 330px;
+    min-width: 500px;
+}
+
+#paragrafo8 {
+    color: rgb(163, 156, 156);
+    position: absolute;
+    top: 1090px;
+    margin-left: 53px;
+    min-width: 500px;
+}
+
+#paragrafo9 {
+    color: rgb(163, 156, 156);
+    position: absolute;
+    top: 1050px;
+    margin-left: 570px;
+    min-width: 500px;
+}
+
+#paragrafo10 {
+    color: rgb(163, 156, 156);
+    position: absolute;
+    top: 1050px;
+    margin-left: 820px;
+    min-width: 500px;
+}
+
+#paragrafo11 {
+        color: rgb(163, 156, 156);
+        position: absolute;
+        top: 1090px;
+        margin-left: 330px;
+        min-width: 500px;
+}
